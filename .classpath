@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="gson-2.9.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="commons-text-1.9.jar"/>
+	<classpathentry exported="true" kind="lib" path="commons-lang3-3.11.jar"/>
+	<classpathentry exported="true" kind="lib" path="commons-logging-1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="commons-beanutils-1.9.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="commons-collections-3.2.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="opencsv-4.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
